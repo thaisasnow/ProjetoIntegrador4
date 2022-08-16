@@ -1,0 +1,27 @@
+.sub-menu  {
+
+	
+	
+	display: none;
+	position: absolute;
+}
+
+
+
+nav ul li:hover .sub-menu{
+
+	display: block;
+	position: absolute;
+	right: 485px;
+	top: -38px;
+}
+
+
+
+nav ul li:hover .sub-menu ul li{
+
+	display: block;
+
+
+	
+}
